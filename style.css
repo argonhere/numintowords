@@ -1,10 +1,18 @@
 html{
     height:100%;
 }
+p1{
+    font-size:20px;
+    color:rgb(200, 230, 204);
+    text-align:center;
+    font-family:Ubuntu;
+}
+
 body{  
 height:100%;
 background:-webkit-linear-gradient(#141e30,#243b55);
 background-position:;
+text-align:center;
 }
 p{
     background:-webkit-linear-gradient(#6C724C, #5974B7);
@@ -17,4 +25,7 @@ input[type=number]{
     font-size:20px;
     border-radius:10px;
     width:200px;
+    margin-top:0px;
+    text-align:center;
+    margin-left:0px;
 }
